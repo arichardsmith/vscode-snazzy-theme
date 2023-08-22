@@ -19,7 +19,7 @@ A fork of the [Visual Studio Code snazzy theme](https://github.com/xDae/vscode-s
 This fork updates the original to:
 - Fade unused code
 - Remove italics from HTML attrivutes
-- 
+- Tweak the CSS colours
 
 ## Colors:
 

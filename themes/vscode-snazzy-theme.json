@@ -239,6 +239,17 @@
           }
       },
       {
+        "name": "CSS Value",
+        "scope": [
+            "keyword.other.unit.css",
+            "constant.numeric.css",
+            "support.constant.property-value.css"
+        ],
+        "settings": {
+            "foreground": "#eff0eb"
+        }
+      },
+      {
           "name": "Function Argument",
           "scope": [
               "variable.parameter"
@@ -299,7 +310,7 @@
               "source.stylus support.type.property-name"
           ],
           "settings": {
-              "foreground": "#B2CCD6"
+              "foreground": "#9aedfe"
           }
       },
       {
@@ -349,7 +360,6 @@
               "entity.other.attribute-name"
           ],
           "settings": {
-              "fontStyle": "italic",
               "foreground": "#f3f99d"
           }
       },
