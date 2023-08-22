@@ -95,7 +95,6 @@
               "text.html.basic entity.other.attribute-name.html"
           ],
           "settings": {
-              "fontStyle": "italic",
               "foreground": "#f3f99d"
           }
       },
