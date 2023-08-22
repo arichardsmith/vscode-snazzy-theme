@@ -14,7 +14,10 @@
 
 ## About
 
-Visual Studio Code theme based on hyper-snazzy colors from [Sindre Sorhus](https://github.com/sindresorhus).
+A fork of the [Visual Studio Code snazzy theme](https://github.com/xDae/vscode-snazzy-theme) that is based on hyper-snazzy colors from [Sindre Sorhus](https://github.com/sindresorhus).
+
+This fork updates the original to:
+- Fade unused code
 
 ## Colors:
 
