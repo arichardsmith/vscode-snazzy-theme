@@ -1,5 +1,5 @@
 {
-  "name": "Snazzy vs theme",
+  "name": "Snazzy vs theme fork",
   "type": "dark",
   "colors": {
       "activityBar.background": "#282a36",
@@ -24,7 +24,7 @@
       "editorGroup.dropBackground": "#232631",
       "editorGroupHeader.tabsBackground": "#282a36",
       "editorIndentGuide.background": "#616263",
-      "editorUnnecessaryCode.opacity": "#54555e",
+      "editorUnnecessaryCode.opacity": "#54555e80",
       "editorLineNumber.foreground": "#616263",
       "editorLink.activeForeground": "#ff5c57",
       "editorWarning.foreground": "#f3f99d",
